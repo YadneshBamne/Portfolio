@@ -1,0 +1,16 @@
+{
+  "name": "atharva",
+  "version": "1.0.0",
+  "description": "A simple app deployment of athrava",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "athrva",
+    "node",
+    "deploy"
+  ],
+  "author": "Atharva Gourshete",
+  "license": "ISC"
+}
